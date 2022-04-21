@@ -1,0 +1,68 @@
+#linea {
+    position: relative;
+    left: 400px;
+    top: 100px;
+    width: 600px;
+}
+h1 {
+    position: relative;
+    top: 200px;
+    
+}
+.imagen {
+    position:relative;
+    /* left: 130px;
+    bottom: 90px; */
+}
+.parrafo {
+    position:relative;
+    left: 20px;
+}
+.rayo {
+    width: 200px;
+    position: relative;
+    right: 15%;
+}
+.logo {
+    width: 40%;
+    margin-left: 50px;
+}
+li {
+    margin-left: 30px;
+    align-self: flex-end;
+}
+.formulario {
+padding: 10px;
+}
+.tarjeta {
+    width: 50%;
+    margin: 0 auto;
+    justify-items: center;
+   /*  display: flex;
+    align-items: center;
+    */
+}
+
+.form-control {
+    margin: 20px;
+}
+.div-bt {
+    display: flex;
+    justify-content: center;
+}
+.div-ta {
+    display: flex;
+    justify-content: center;
+}
+.div-row {
+    display: flex;
+    justify-content: center;
+}
+.columna1 {
+    display: flex;
+    justify-content: center;
+}
+.columna2 {
+    display: flex;
+    justify-content: center;
+}
