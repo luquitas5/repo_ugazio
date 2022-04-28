@@ -1,0 +1,15 @@
+@import "variables";
+
+#navbarNav {
+            .navbar-nav {
+                    .nav-item{
+                            .nav-link {
+                                        color:$azul;
+                                        font-family: 'Open Sans',sans-serif;
+                                        &:hover {
+                                                     border-bottom: 2px solid $azul;
+                                                   }
+                                      }
+                            }
+                        }
+            }
